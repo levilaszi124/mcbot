@@ -1,0 +1,16 @@
+{
+  "name": "mcbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "noe bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mineflayer": "^4.39.0"
+  }
+}
