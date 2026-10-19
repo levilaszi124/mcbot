@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer')
 
 function startBot() {
   const bot = mineflayer.createBot({
-    host: 'stormblock.play.hosting',
+    host: 'levismp12.play.hosting',
     port: 25565,
     username: 'AFKBot'
   })
